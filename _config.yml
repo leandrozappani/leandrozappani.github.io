@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leandro Zappani's Page"
 title_separator          : "-"
 name                     : &name "Luis Leandro Emanuel Zappani"
-description              : &description "personal description"
+description              : &description "geneticist and teacher"
 url                      : https://leandrozappani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leandrozappani/leandrozappani.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Leandro Zappani"
   avatar           : "profile2.png"
-  bio              : "Geneticist and Teacher - In love with chromosomes and statistics"
+  bio              : "Geneticist and Teacher"
   location         : "Posadas, Misiones, Argentina"
   employer         : "National University of Misiones"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com.ar/citations?user=-JLU-skAAAAJ&hl=es&oi=ao"
-  email            :
+  email            : "leandrozappani@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Luis_Leandro_Zappani"
   uri              :
   bitbucket        :
