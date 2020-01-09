@@ -7,6 +7,9 @@ date: 2020-01-09
 venue: '--'
 paperurl: 'http://leandrozappani.github.io/files/'
 
+---
+
+
 - Barba Gonzalez R, Tapia Campos E, Lara Bañuelos TY, Cepeda Cornejo V, Daviña JR, **Zappani LLE** & Honfi AI. 2015. Citogenética molecular: herramienta esencial en el mejoramiento genético de especies ornamentales. Plant Cytogenetics. XLIV Argentine Cogress of Genetics, Mar del Plata. 13-16/9/2015. BAG, J. basic appl. genet. 2015, vol. 26 (1), suppl., pp. 83. ISSN 1852-6233. [Download abstract here](http://leandrozappani.github.io/files/6_abstract.pdf)
 
 
