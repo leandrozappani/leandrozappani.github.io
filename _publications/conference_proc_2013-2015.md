@@ -2,7 +2,7 @@
 title: "Conference Proceedings"
 collection: publications
 permalink: /publication/conference_proc_2013-2015
-excerpt: 'Here are available Abstracts and some posters from my work from 2013 - 2015 in Plant Cytogenetics'
+excerpt: 'Here are available abstracts and some posters from my work from 2013 - 2015 in Plant Cytogenetics'
 date: 2015-01-01
 venue: 'Various Journals'
 paperurl: 'https://leandrozappani.github.io/publication/conference_proc_2013-2015'
