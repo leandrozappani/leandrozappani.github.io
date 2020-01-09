@@ -3,9 +3,9 @@ title: "Conference Proceedings"
 collection: publications
 permalink: /publication/conference_proc_2013-2015
 excerpt: 'Conference Proceedings'
-date: 2013 to 2015
+date: 2013-01-01
 venue: 'Various Journals'
-paperurl: 'http://leandrozappani.github.io/files/'
+paperurl: 'https://leandrozappani.github.io/publication/conference_proc_2013-2015'
 
 ---
 
