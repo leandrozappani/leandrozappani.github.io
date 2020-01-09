@@ -38,7 +38,7 @@ Skills
 * Software Skills
   * ImageJ
   * R and RStudio
-* Statistics y Biological Sciences
+* Statistics in Biological Sciences
 
 Languages
 =========
