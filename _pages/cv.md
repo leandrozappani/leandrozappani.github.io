@@ -47,13 +47,16 @@ Languages
 * Japanese: Begginer (N5)
 
 Publications
-======
+============
+
 Degree Thesis
 -------------
+
 Chromosome Studies in *Zephyranthes mesochloa* Herb. ex Lindl. (Amaryllidaceae). Defense date: 3/26/2014. Tutors: Dr. Julio R. Daviña & Dra. Ana I. Honfi.
 
 Conference Proceedings
 ----------------------
+
 - Barba Gonzalez R, Tapia Campos E, Lara Bañuelos TY, Cepeda Cornejo V, Daviña JR, **Zappani LLE** & Honfi AI. 2015. Citogenética molecular: herramienta esencial en el mejoramiento genético de especies ornamentales. Plant Cytogenetics. XLIV Argentine Cogress of Genetics, Mar del Plata. 13-16/9/2015. BAG, J. basic appl. genet. 2015, vol. 26 (1), suppl., pp. 83. ISSN 1852-6233.
 
 - **Zappani LLE**, Honfi AI & Daviña JR. 2015. Cariotipos tetraploides de *Zephyranthes mesochloa* Herb. ex Lindl. (Amaryllidaceae). Citogenética Vegetal. XLIV Argentine Cogress of Genetics, Mar del Plata. 13-16/9/2015. BAG, J. basic appl. genet. 2015, vol. 26 (1), suppl., pp. 89. ISSN 1852-6233.
