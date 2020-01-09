@@ -6,7 +6,7 @@ excerpt: 'Degree Thesis - Licentiate in Genetics'
 date: 2014-03-24
 venue: 'National University of Misiones'
 paperurl: 'http://leandrozappani.github.io/files/thesis_abstract.pdf'
-citation: 'Zappani, LLE. (2014). &quot;Chromosome Studies in *Zephyranthes mesochloa* Herb. ex Lindl. (Amaryllidaceae).&quot; <i>National University of Misiones</i>.'
+citation: 'Zappani, LLE. (2014). &quot;Chromosome Studies in <i>Zephyranthes mesochloa</i> Herb. ex Lindl. (Amaryllidaceae).&quot; <i>National University of Misiones</i>.'
 ---
 
 
