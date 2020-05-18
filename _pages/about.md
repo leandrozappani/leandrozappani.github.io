@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Presentation"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,18 +12,8 @@ redirect_from:
 
 Hi! My name is Leandro.
 
-I'm a geneticist graduated from National University of Misiones (Argentina).
+I have a degree in Genetics from the National University of Misiones (Argentina). I participated in research projecs from 2013 to 2018 in Plant Cytogenetics.
+My current main reseach interest is the epigenetic determination of the centromere locus.
+I'm a MEXT Scholarship Holder (Government of Japan) and a Research Student at the Graduate School of Frontier Biosciences at Osaka University (both positions on hold right now, due to the current COVID-19 situation).
 
-I have worked in research in Plant Cytogenetics from 2013 to 2018.
-
-I currently work at National University of Misiones as a Teaching Assistant in the Subject Microbiology and Immunology. I also teach at the School of Robotics of Misiones.
-
-My main academic objectives for 2020 are:
-- Pursuing a graduate degree in Japan, doing research in molecular biology of chromosomes.
-- Finishing a Specialization in Data Science.
-	
-
-
-	
-	
 
