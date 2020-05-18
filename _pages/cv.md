@@ -9,29 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+MEXT Scholarship Holder (2020)
+
 Education
 ======
-* Licentiate in Genetics, National University of Misiones, 2014
+* Research Student, Graduate School of Frontier Biosciences, Osaka University, **current** (on hold)
+* Degree in Genetics, National University of Misiones, 2014
+
+
 * University Teacher, Gaston Dachary University, 2019
 * Data Science Specialist, John Hopkins University (Coursera), 2020 (expected)
 
-Work experience
-======
-* 2014 - 2017: Teaching Assistant
-  * National University of Misiones
-  * Subject: Evolutionary Genetics
-  * Supervisor: Professor Ana I. Honfi
 
-* 2018 - current: Teaching Assistant
-  * National University of Misiones
-  * Subject: Microbiology and Immunology
-  * Supervisor: Professor Gladis Jerke
-  
-* 2019 - current: Teacher
-  * School of Robotics of Misiones
-  * Duties included: Pedagogical Planning, Teacher training
-  * Supervisor: AE Constanza Castillo
-  
 Skills
 ======
 * Molecular cytogenetics
@@ -44,7 +33,7 @@ Languages
 =========
 * Portuguese: Speaks fluently
 * English: Advanced (C1)
-* Japanese: Begginer (N5)
+* Japanese: Begginer (A2)
 
 Publications
 ============
@@ -76,6 +65,19 @@ Talks
   
 Teaching
 ======
-See *Work experience*
+* 2014 - 2017: Teaching Assistant
+  * National University of Misiones
+  * Subject: Evolutionary Genetics
+  * Supervisor: Professor Ana I. Honfi
+
+* 2018 - 2019: Teaching Assistant
+  * National University of Misiones
+  * Subject: Microbiology and Immunology
+  * Supervisor: Professor Gladis Jerke
+  
+* 2019 - 2020: Teacher
+  * School of Robotics of Misiones
+  * Duties included: Pedagogical Planning, Teacher training
+  * Supervisor: AE Constanza Castillo
 
 
